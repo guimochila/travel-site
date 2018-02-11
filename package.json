@@ -1,0 +1,23 @@
+{
+  "name": "udemy-mastering-the-modern-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimochila/udemy-modern-workflow.git"
+  },
+  "author": "Guilherme Scaldelai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimochila/udemy-modern-workflow/issues"
+  },
+  "homepage": "https://github.com/guimochila/udemy-modern-workflow#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
